@@ -1,7 +1,7 @@
 # Java Spring Boot Food Ordering Site Project 🍔
 
 ## Introduction
-Welcome to our Java Spring Boot Food Ordering Site Project! This repository contains a segment of a larger project aimed at assisting those interested in developing their own food ordering platform. It's crafted with Java, Spring Boot, and JWT for secure authentication, and it's been thoroughly tested with Postman to ensure reliability.
+Welcome to our Java Spring Boot Food Ordering Site Project! This repository contains a segment of a so much larger project aimed at assisting those interested in developing their own food ordering platform. It's crafted with Java, Spring Boot, and JWT for secure authentication, and it's been thoroughly tested with Postman to ensure reliability.
 
 ## Project Features
 - **Java**: Robust and object-oriented programming for backend logic.
