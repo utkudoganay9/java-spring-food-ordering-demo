@@ -24,4 +24,7 @@ We welcome contributions that can help improve this project:
 ## License
 This project is open-sourced under the MIT License. Feel free to use it as a foundation for your food ordering site.
 
+## Attention
+This project contains part of the main project for security purposes and some parts have been deleted. I believe that you can easily fill in the missing parts.😇 
+
 Bon Appétit and Happy Coding! 🚀
